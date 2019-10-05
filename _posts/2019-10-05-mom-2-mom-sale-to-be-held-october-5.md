@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2019-10-05 00:20:16
 ---
-[](https://docs.google.com/document/d/1dnKvbnq-NNWLb9v-wZEqCK7UPEAkdEg96w1pTRMs-s0/edit?usp=sharing)
+[https://docs.google.com/document/d/1dnKvbnq-NNWLb9v-wZEqCK7UPEAkdEg96w1pTRMs-s0/edit?usp=sharing](https://docs.google.com/document/d/1dnKvbnq-NNWLb9v-wZEqCK7UPEAkdEg96w1pTRMs-s0/edit?usp=sharing)
