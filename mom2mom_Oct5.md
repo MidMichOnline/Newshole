@@ -4,4 +4,4 @@ layout: post
 published: false
 ---
 
-https://docs.google.com/document/d/1dnKvbnq-NNWLb9v-wZEqCK7UPEAkdEg96w1pTRMs-s0/edit?usp=sharing
+()[https://docs.google.com/document/d/1dnKvbnq-NNWLb9v-wZEqCK7UPEAkdEg96w1pTRMs-s0/edit?usp=sharing]
