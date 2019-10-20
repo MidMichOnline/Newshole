@@ -8,4 +8,4 @@ permalink: http://newshole.me/
 published: true
 post_date: 2019-10-20 20:08:23
 ---
-[knowledgebase-one include="89,73,81" hide_empty="0" all_link="true"]
+[knowledgebase-one include="89,73,81,1088,94" hide_empty="0" all_link="true"]
