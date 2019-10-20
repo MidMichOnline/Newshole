@@ -1,6 +1,6 @@
 ---
 ID: 1881
-post_title: News Library
+post_title: Index
 author: ng23055
 post_excerpt: ""
 layout: page
