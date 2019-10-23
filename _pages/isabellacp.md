@@ -20,7 +20,7 @@ post_date: 2019-10-23 22:35:06
 
 [ic_add_posts category='mmj' date='Today-30']
 
-[Tabby title="Post Article"]
+[tabby title="Post Article"]
 
 [wpuf_form id="1901"]
 
