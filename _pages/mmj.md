@@ -9,10 +9,17 @@ published: true
 post_date: 2019-10-20 20:43:39
 ---
 Here are the top headlines for the week of Sunday, October 20, 2019. Submit a news tip or article to include in this list.
-<table class="wp-list-table widefat fixed striped posts">
-<tbody id="the-list">
-<tr id="post-1878" class="iedit author-self level-0 post-1878 type-rtbs_tabs status-publish hentry">
-<td class="dk_shortcode column-dk_shortcode" data-colname="Shortcode">[rtbs name="newsjam"]</td>
-</tr>
-</tbody>
-</table>
+
+[tabby title="Recent"]
+
+[ic_add_posts category='mmj' date="today"]
+
+[tabby title="This Week"]
+
+[ic_add_posts category='mmj' date='Today-7']
+
+[tabby title="Archive"]
+
+[ic_add_posts category='mmj' date='Today-30']
+
+[tabbyending]
